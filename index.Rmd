@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://mx.linkedin.com/in/daianna-gonz%C3%A1lez-86913522b?trk=people-guest_people_search-card"
   - label: Twitter
-    url: "https://twitter.com/Daianna27635327/"
+    url: "https://twitter.com/daianna_glez/"
   - label: GitHub
     url: "https://github.com/daianna21"
   - label: Email
