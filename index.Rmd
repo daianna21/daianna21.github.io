@@ -8,6 +8,8 @@ links:
     url: "https://twitter.com/daianna_glez/"
   - label: GitHub
     url: "https://github.com/daianna21"
+  - label: ORCiD
+    url: "https://orcid.org/0009-0005-8348-3195"
 output:
   postcards::trestles
 ---
