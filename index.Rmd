@@ -13,6 +13,7 @@ links:
 output:
   postcards::trestles
 ---
+
  
 ## About me
 
@@ -34,6 +35,9 @@ Genomic Sciences undergraduate student | September 2020 - Present
 
 **Data Science team** | Lieber Institute | Baltimore, MD | Team member | August 2022 - Present
 
+
+## CV
+<embed src="CV_Daianna_GonzalezPadilla.pdf" type="application/pdf" width="100%">
 
 ## Contact 
 [Email](mailto:daianna@lcg.unam.mx)
