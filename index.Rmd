@@ -1,15 +1,23 @@
 ---
-title: "Daianna González Padilla"
-image: "profile_pic.png"
+title: "Daianna Gonzalez-Padilla"
+image: "Headshot_photo_DGP-modified.png"
 links:
-  - label: LinkedIn
-    url: "https://mx.linkedin.com/in/daianna-gonz%C3%A1lez-86913522b?trk=people-guest_people_search-card"
-  - label: Twitter
-    url: "https://twitter.com/daianna_glez/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("file-lines", fill = "#8B0000")` CV'
+    url: "https://drive.google.com/file/d/1HfC_Bcfv4rcJ356pse2HDWaAsiPe9woj/view?usp=sharing"
+  - label: '🌮 My Blog'
+    url: "https://daianna21.github.io/daianna_blog/"
+  - label: '`r fontawesome::fa("x-twitter", fill = "#242424")` Twitter'
+    url: "https://x.com/daianna_glez/"
+  - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
     url: "https://github.com/daianna21"
-  - label: ORCiD
+  - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
+    url: "https://www.linkedin.com/in/daianna-glez/"
+  - label: '`r fontawesome::fa("orcid", fill = "#B3EE3A")` ORCiD'
     url: "https://orcid.org/0009-0005-8348-3195"
+  - label: '`r fontawesome::fa("google", fill = "#7EC0EE")` Google Scholar'
+    url: "https://scholar.google.com/citations?user=-TacIy4AAAAJ&hl=es&oi=ao"
+  - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
+    url: "mailto:glezdaianna@gmail.com"
 output:
   postcards::trestles
 ---
@@ -17,17 +25,27 @@ output:
  
 ## About me
 
-I´m an undergraduate student of genomic Sciences at the National Autonomous University of Mexico. I'm broadly interested in pharmaceutics, drug discovery  and pharmacogenomics. Currently I´m applying bioinformatics to understand the effects of smoking and nicotine on the developing brain.
 
-## Education
+ I'm broadly interested in pharmaceutics, drug discovery  and pharmacogenomics. Currently I´m applying bioinformatics to understand the effects of smoking and nicotine on the developing brain.
 
-**National Autonomous University of Mexico** | Morelos, MX
+---
+  
+## <span style="color:  #030303;"> `r fontawesome::fa("graduation-cap", fill = "#4D4D4D")` Education</span>
 
-Genomic Sciences undergraduate student | September 2020 - Present
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #4D4D4D;"> National Autonomous University of Mexico, Morelos, Mexico</span>** | [2020 - 2024]{style="float:right"}  |
+| B.Sc. in Genomic Sciences 🧬 ||
+|<br>|   |
+| **<span style="color:  #4D4D4D;"> Tecnologico de Monterrey, Zacatecas, Mexico </span>** | [2017 - 2020]{style="float:right"} |
+| High School ||
+  
+---
 
 
 
-## Experience
+
+## Reseacrh experience
 
 **Systems Biology Freyre Lab** | Genomic Sciences Center CCG, UNAM | Morelos, México | Lab member  | February 2021- June 2021
 
@@ -36,9 +54,15 @@ Genomic Sciences undergraduate student | September 2020 - Present
 **Data Science team** | Lieber Institute | Baltimore, MD | Team member | August 2022 - Present
 
 
-## CV
-<embed src="CV_Daianna_GonzalezPadilla.pdf" type="application/pdf" width="100%">
+## Publications
 
-## Contact 
-[Email](mailto:daianna@lcg.unam.mx)
+## Presentations
 
+## Skills and Interests
+
+## My personal blog
+
+## Awards
+
+
+Please refer to my CV for more details about my education, past research and teaching experience, presentations and courses, and bioinformatics skills. You cal also find links to teaching materials and recordings of conference talks. 
