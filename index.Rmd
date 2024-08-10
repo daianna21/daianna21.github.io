@@ -2,7 +2,7 @@
 title: "Daianna Gonzalez-Padilla"
 image: "Headshot_photo_DGP-modified.png"
 links:
-  - label: '`r fontawesome::fa("file-lines", fill = "#8B0000")` CV'
+  - label: '📑 CV'
     url: "https://drive.google.com/file/d/1HfC_Bcfv4rcJ356pse2HDWaAsiPe9woj/view?usp=sharing"
   - label: '🌮 My Blog'
     url: "https://daianna21.github.io/daianna_blog/"
@@ -23,26 +23,46 @@ output:
 ---
 
  
-## About me
-
-
- I'm broadly interested in pharmaceutics, drug discovery  and pharmacogenomics. Currently I´m applying bioinformatics to understand the effects of smoking and nicotine on the developing brain.
-
----
   
-## <span style="color:  #030303;"> `r fontawesome::fa("graduation-cap", fill = "#4D4D4D")` Education</span>
+## <span style="color:  #030303;"> `r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` About me</span>
+
+|  |  |
+|:------------------------------------------------------------------|
+| I'm a post-baccalaureate researcher working on bioinformatics to study brain function and disease, genetic variation, and drug response. My main interest is the development of algorithms to analyze omics data and their application to answer a wide range of biological questions.
+---
+
+
+
+## <span style="color:  #030303;"> `r fontawesome::fa("graduation-cap", fill = "#030303")` Education</span>
 
 |  |  |
 |:--------------------------------------------------|:----------------|
-| **<span style="color:  #4D4D4D;"> National Autonomous University of Mexico, Morelos, Mexico</span>** | [2020 - 2024]{style="float:right"}  |
-| B.Sc. in Genomic Sciences 🧬 ||
+| **<span style="color:  #030303;"> National Autonomous University of Mexico (UNAM), Morelos, Mexico </span>** | [2020 - 2024]{style="float:right"}  |
+| <span style="color: #545454;"> B.Sc. in Genomic Sciences ([LCG](https://www.lcg.unam.mx)) </span> | [📍🇲🇽]{style="float:right"}  ||
 |<br>|   |
-| **<span style="color:  #4D4D4D;"> Tecnologico de Monterrey, Zacatecas, Mexico </span>** | [2017 - 2020]{style="float:right"} |
-| High School ||
-  
+| **<span style="color:  #030303;"> Tecnologico de Monterrey (ITESM), Zacatecas, Mexico </span>** | [2017 - 2020]{style="float:right"} |
+| <span style="color: #545454;"> High School </span> | [📍🇲🇽]{style="float:right"} ||
+
 ---
 
 
+
+---
+  
+## <span style="color:  #030303;"> `r fontawesome::fa("laptop-code", fill = "#030303")` Research experience</span>
+
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #030303;"> Sanger Institute, Cambridge, UK </span>** | [Sept 2024 - Present]{style="float:right"}  |
+| <span style="color: #545454;"> Research assistant in the Immune Genomics lab of [Trynka Group](https://www.sanger.ac.uk/group/trynka-group/). </span> | [📍🇬🇧]{style="float:right"}  ||
+|<br>|   |
+| **<span style="color:  #030303;"> Lieber Institute for Brain Development (LIBD), Baltimore, MA </span>** | [Jun 2022 - Aug 2024]{style="float:right"} |
+| <span style="color: #545454;"> Undergraduate researcher in the Data Science team of [Leonardo Collado-Torres](https://lcolladotor.github.io). </span> | [📍🇺🇸]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> Karolinska Institutet (KI), Stockholm, Sweden </span>** | [Aug - Nov 2024]{style="float:right"} |
+| <span style="color: #545454;"> Undergraduate researcher in the Physiology and Pharmacology department with [Volker Lauschke](https://ki.se/en/people/volker-lauschke). </span> | [📍🇸🇪]{style="float:right"} ||
+
+---
 
 
 ## Reseacrh experience
@@ -51,7 +71,6 @@ output:
 
 **Genomics and Bioinformatics Hub** | BWH, Harvard Medical School | Boston, MA | Co-op intern | February 2022 - August 2022
 
-**Data Science team** | Lieber Institute | Baltimore, MD | Team member | August 2022 - Present
 
 
 ## Publications
