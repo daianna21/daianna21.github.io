@@ -20,10 +20,9 @@ links:
     url: "mailto:glezdaianna@gmail.com"
 output:
   postcards::trestles
+  
 ---
 
- 
-  
 ## <span style="color:  #030303;"> `r fontawesome::fa("user", fill = "#030303", prefer_type="solid")` About me</span>
 
 |  |  |
@@ -34,7 +33,7 @@ output:
 
 
 ## <span style="color:  #030303;"> `r fontawesome::fa("graduation-cap", fill = "#030303")` Education</span>
-
+<p style="color:#999999; font-size: 13px; text-align: right;"> 📍: on-site \ \| \ `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`: remote </p>
 |  |  |
 |:--------------------------------------------------|:----------------|
 | **<span style="color:  #030303;"> National Autonomous University of Mexico (UNAM), Morelos, Mexico </span>** | [2020 - 2024]{style="float:right"}  |
@@ -50,38 +49,74 @@ output:
 ---
   
 ## <span style="color:  #030303;"> `r fontawesome::fa("laptop-code", fill = "#030303")` Research experience</span>
-
 |  |  |
 |:--------------------------------------------------|:----------------|
 | **<span style="color:  #030303;"> Sanger Institute, Cambridge, UK </span>** | [Sept 2024 - Present]{style="float:right"}  |
-| <span style="color: #545454;"> Research assistant in the Immune Genomics lab of [Trynka Group](https://www.sanger.ac.uk/group/trynka-group/). </span> | [📍🇬🇧]{style="float:right"}  ||
+| <span style="color: #545454;"> Research assistant in the [Immune Genomics group](https://www.sanger.ac.uk/group/trynka-group/) of [Dr. Gosia Trynka](https://www.sanger.ac.uk/person/trynka-gosia/). </span> | [📍🇬🇧]{style="float:right"}  ||
 |<br>|   |
-| **<span style="color:  #030303;"> Lieber Institute for Brain Development (LIBD), Baltimore, MA </span>** | [Jun 2022 - Aug 2024]{style="float:right"} |
-| <span style="color: #545454;"> Undergraduate researcher in the Data Science team of [Leonardo Collado-Torres](https://lcolladotor.github.io). </span> | [📍🇺🇸]{style="float:right"} ||
+| **<span style="color:  #030303;"> Lieber Institute for Brain Development (LIBD), Baltimore, MD </span>** | [Jun 2022 - Jun 2024]{style="float:right"} |
+| <span style="color: #545454;"> Undergraduate researcher in the [Data Science team](https://lcolladotor.github.io) of [Dr. Leonardo Collado-Torres](http://lcolladotor.github.io/cv/en_CV_lcollado.pdf). </span> | [📍🇺🇸 \| `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"} ||
 |<br>|   |
-| **<span style="color:  #030303;"> Karolinska Institutet (KI), Stockholm, Sweden </span>** | [Aug - Nov 2024]{style="float:right"} |
-| <span style="color: #545454;"> Undergraduate researcher in the Physiology and Pharmacology department with [Volker Lauschke](https://ki.se/en/people/volker-lauschke). </span> | [📍🇸🇪]{style="float:right"} ||
+| **<span style="color:  #030303;"> Karolinska Institutet (KI), Stockholm, Sweden </span>** | [Aug - Nov 2023]{style="float:right"} |
+| <span style="color: #545454;"> Undergraduate researcher in the [Personalized Medicine and Drug Development lab](https://ki.se/en/research/research-areas-centres-and-networks/research-groups/personalized-medicine-and-drug-development-lauschke-lab) of [Dr. Volker Lauschke](https://ki.se/en/people/volker-lauschke). </span> | [📍🇸🇪]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> Brigham and Women's Hospital (BWH), Boston, MA </span>** | [Feb - Jul 2022]{style="float:right"} |
+| <span style="color: #545454;"> Intern in the [Genomics and Bioinformatics Hub](https://bioinformatics.bwh.harvard.edu) with [Dr. Xianjun Dong](http://sterding.github.io). </span> | [`r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"} ||
+|<br>|   |
+| **<span style="color:  #030303;"> Center for Genomic Sciences (CCG), Morelos, Mexico </span>** | [Feb - Jul 2021]{style="float:right"} |
+| <span style="color: #545454;"> Undergraduate researcher in the [Systems Biology lab](http://freyrelab.org/en/) of [Dr. Julio A. Freyre-Gonzalez](https://www.ccg.unam.mx/julio-augusto-freyre-gonzalez/). </span> | [📍🇲🇽 \| `r fontawesome::fa("laptop", fill = "#838B83", width= "0.95em")`]{style="float:right"} ||
+---
+
+
+## <span style="color:  #030303;"> `r fontawesome::fa("file-lines", fill = "#030303")` Publications</span>
+|  |  |
+|:------------------------------------------------------------------|
+|**[Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10888823/)** \| Huuki-Myers, L. A., Montgomery, K. D., Kwon, S. H., Cinquemani, S., Eagles, N. J., **Gonzalez-Padilla, D.**, ..., Collado-Torres, L. (2024). 
+---
+
+
+## <span style="color:  #030303;"> `r fontawesome::fa("person-chalkboard", fill = "#030303")` Presentations</span>
+|  |  |
+|:--------------------------------------------------|:----------------|
+| **<span style="color:  #030303;"> Annual Bioconductor Conference 2023	, Boston, MA </span>** | [Aug 2023]{style="float:right"}  |
+| <span style="color: #545454; margin-left:3px"> [`r fontawesome::fa("youtube", fill = "#FF0000")` ](https://www.youtube.com/watch?v=sTq6skZGgoI&list=PLdl4u5ZRDMQRVvXBi29h7MDtRn-AQGlXS) \ Presented a short talk titled **"Modeling the effects of nicotine and smoking exposures on the developing mouse brain"**. </span> | [📍🇺🇸]{style="float:right"}  ||
+| <span style="color: #545454; margin-left:3px"> [`r fontawesome::fa("youtube", fill = "#FF0000")` ](https://www.youtube.com/watch?v=6hJXPw9PM1o) \ Presented a long workshop titled **"A Bioconductor-style differential expression analysis powered by SPEAQeasy"**. </span> |  ||
+| <span style="color: #545454; margin-left:3px"> [`r fontawesome::fa("youtube", fill = "#FF0000")` ](https://www.youtube.com/watch?v=nhw_KGXZdBU) \ Presented a Birds-of-a-feather session titled **"Bioconductor and the Latin American Bioinformatics Landscape"**. </span> |  ||
+|<br>|  
+| **<span style="color:  #030303;"> NIDA Genetics and Epigenetics Meeting 2024, Bethesda, MD </span>** | [Jun 2024]{style="float:right"}    |
+| <span style="color: #545454;"> Poster presentation titled **"Transcriptomic changes in habenula and amygdala following chronic fentanyl self-administration in rats"** \| Yalcinbas, E. & **Gonzalez-Padilla, D.** </span> | [📍🇺🇸]{style="float:right"}  
+|<br>|  
+| **<span style="color:  #030303;">  PGRN Annual Meeting 2024, Columbus, OH </span>** | [Sept 2024]{style="float:right"}    |
+| <span style="color: #545454;"> Oral presentation titled **"Population-Scale Variability in the Human Uridine Diphosphate (UDP)-Glycosyltransferase Gene Family"**. </span> | [📍🇺🇸]{style="float:right"}  
+---
+
+
+## <span style="color:  #030303;"> `r fontawesome::fa("screwdriver-wrench", fill = "#030303")` Skills </span>
+|  |  |
+|:------------------------------------------------|:--------------------|
+* Programming: `r fontawesome::fa("r-project", fill = "gray")`, `r fontawesome::fa("linux", fill = "gray")`, `r fontawesome::fa("python", fill = "gray")`, C/C++, and Perl.
+* Bioconductor package development `r fontawesome::fa("code-branch", fill = "#8B8970")`
+* GitHub `r fontawesome::fa("github", fill = "black")`
+* Compute clusters and Bash scripting `r fontawesome::fa("terminal", fill = "#8B008B", width= "0.8em")`
+* Quarto websites 🌐
 
 ---
 
 
-## Reseacrh experience
+## <span style="color:  #030303;"> `r fontawesome::fa("award", fill = "#030303")` Achievements </span>
+|  |  |
+|:------------------------------------------------|:--------------------|
+| **<span style="color:  #030303;"> National CARMA Women's Mathematics Olympiad </span>** | [Mar 2020]{style="float:right"}  |
+| <span style="color: #545454;"> 🥇 Gold medal </span> | [📍🇲🇽]{style="float:right"}  ||
+|<br>|   |
+| **<span style="color:  #030303;"> 33 National Mexican Mathematics Olympiad (OMM) </span>** | [Nov 2019]{style="float:right"}  |
+| <span style="color: #545454;"> 🗞 Honorable mention </span> | [📍🇲🇽]{style="float:right"}  ||
+|<br>|   |
+---
 
-**Systems Biology Freyre Lab** | Genomic Sciences Center CCG, UNAM | Morelos, México | Lab member  | February 2021- June 2021
+Please refer to my CV for more details about my education, past research and teaching experience, presentations and courses, publications and ongoing projects. In case of questions or queries, feel free to contact me in any of my social media.
 
-**Genomics and Bioinformatics Hub** | BWH, Harvard Medical School | Boston, MA | Co-op intern | February 2022 - August 2022
+<br>
 
+<span style="color: #7F7F7F; font-size: 14px"> Last Updated: 2024-08-10  </span>
 
-
-## Publications
-
-## Presentations
-
-## Skills and Interests
-
-## My personal blog
-
-## Awards
-
-
-Please refer to my CV for more details about my education, past research and teaching experience, presentations and courses, and bioinformatics skills. You cal also find links to teaching materials and recordings of conference talks. 
