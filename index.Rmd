@@ -3,7 +3,7 @@ title: "Daianna Gonzalez-Padilla"
 image: "Headshot_photo_DGP-modified.png"
 links:
   - label: '📑 CV'
-    url: "https://drive.google.com/file/d/1HfC_Bcfv4rcJ356pse2HDWaAsiPe9woj/view?usp=sharing"
+    url: "https://docs.google.com/document/d/1hC01kYGW7ed04AXsWrdSaabWutE5jVGZDOc967L7sYE/edit?usp=sharing"
   - label: '🌮 My Blog'
     url: "https://daianna21.github.io/daianna_blog/"
   - label: '`r fontawesome::fa("x-twitter", fill = "#242424")` Twitter'
