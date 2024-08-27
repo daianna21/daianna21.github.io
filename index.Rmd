@@ -71,7 +71,9 @@ output:
 ## <span style="color:  #030303;"> `r fontawesome::fa("file-lines", fill = "#030303")` Publications</span>
 |  |  |
 |:------------------------------------------------------------------|
-|**[Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10888823/)** \| Huuki-Myers, L. A., Montgomery, K. D., Kwon, S. H., Cinquemani, S., Eagles, N. J., **Gonzalez-Padilla, D.**, ..., Collado-Torres, L. (2024). 
+|**[Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10888823/)** \| Huuki-Myers, L. A., Montgomery, K. D., Kwon, S. H., Cinquemani, S., Eagles, N. J., **Gonzalez-Padilla, D.**, ..., Collado-Torres, L. (2024). ||
+|<br>|   |
+|**[Population-scale variability of the human UDP-glycosyltransferase gene family.](https://doi.org/10.1016/j.jgg.2024.06.018)** \| **Gonzalez-Padilla, D.**, Camara, M. D., Lauschke, V. M. & Zhou, Y. (2024). 
 ---
 
 
