@@ -111,7 +111,7 @@ output:
 | **<span style="color:  #030303;"> National CARMA Women's Mathematics Olympiad </span>** | [Mar 2020]{style="float:right"}  |
 | <span style="color: #545454;"> 🥇 Gold medal </span> | [📍🇲🇽]{style="float:right"}  ||
 |<br>|   |
-| **<span style="color:  #030303;"> 33 National Mexican Mathematics Olympiad (OMM) </span>** | [Nov 2019]{style="float:right"}  |
+| **<span style="color:  #030303;"> 33rd National Mexican Mathematics Olympiad (OMM) </span>** | [Nov 2019]{style="float:right"}  |
 | <span style="color: #545454;"> 🗞 Honorable mention </span> | [📍🇲🇽]{style="float:right"}  ||
 |<br>|   |
 ---
