@@ -27,7 +27,7 @@ output:
 
 |  |  |
 |:------------------------------------------------------------------|
-| I'm a post-baccalaureate researcher working on bioinformatics to study brain function and disease, genetic variation, and drug response. My main interest is the development of algorithms to analyze omics data and their application to answer a wide range of biological questions.
+| I'm a post-baccalaureate researcher analyzing omics data to study brain function and disease, and drug response. My main interest is the development of algorithms to analyze biological data and their application to answer a wide range of biomedical questions.
 ---
 
 
@@ -37,7 +37,7 @@ output:
 |  |  |
 |:--------------------------------------------------|:----------------|
 | **<span style="color:  #030303;"> National Autonomous University of Mexico (UNAM), Morelos, Mexico </span>** | [2020 - 2024]{style="float:right"}  |
-| <span style="color: #545454;"> B.Sc. in Genomic Sciences ([LCG](https://www.lcg.unam.mx)) </span> | [📍🇲🇽]{style="float:right"}  ||
+| <span style="color: #545454;"> B.S. in Genomic Sciences ([LCG](https://www.lcg.unam.mx)) </span> | [📍🇲🇽]{style="float:right"}  ||
 |<br>|   |
 | **<span style="color:  #030303;"> Tecnologico de Monterrey (ITESM), Zacatecas, Mexico </span>** | [2017 - 2020]{style="float:right"} |
 | <span style="color: #545454;"> High School </span> | [📍🇲🇽]{style="float:right"} ||
@@ -72,6 +72,8 @@ output:
 |  |  |
 |:------------------------------------------------------------------|
 |**[Population-scale variability of the human UDP-glycosyltransferase gene family.](https://doi.org/10.1016/j.jgg.2024.06.018)** \| **Gonzalez-Padilla, D.**, Camara, M. D., Lauschke, V. M., & Zhou, Y. (2024). ||
+|<br>|   |
+|**[Molecular impact of nicotine and smoking exposure on the developing and adult mouse brain.](https://doi.org/10.1101/2024.11.05.622149)** \| **Gonzalez-Padilla, D.**, Eagles, N. J., Cano, M., Pertea, G., Jaffe, A. E., ..., Martinowich, K., & Collado-Torres, L. (2024). ||
 |<br>|   |
 |**[Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10888823/)** \| Huuki-Myers, L. A., Montgomery, K. D., Kwon, S. H., Cinquemani, S., Eagles, N. J., **Gonzalez-Padilla, D.**, ..., Collado-Torres, L. (2024). 
 ---
