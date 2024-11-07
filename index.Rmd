@@ -44,9 +44,6 @@ output:
 
 ---
 
-
-
----
   
 ## <span style="color:  #030303;"> `r fontawesome::fa("laptop-code", fill = "#030303")` Research experience</span>
 |  |  |
@@ -95,6 +92,26 @@ output:
 ---
 
 
+## <span style="color:  #030303;"> `r fontawesome::fa("cog", fill = "#030303")` Software </span>
+|  |  |
+|:------------------------------------------------|:--------------------|
+* [*smokingMouse*](http://research.libd.org/smokingMouse/index.html) to provide access to bulk RNA-seq data sets from [Gonzalez-Padilla et al. (2024)](https://doi.org/10.1101/2024.11.05.622149). 
+
+---
+
+
+## <span style="color:  #030303;"> `r fontawesome::fa("mouse-pointer", fill = "#030303")` Tutorials and teaching materials </span>
+|  |  |
+|:------------------------------------------------|:--------------------|
+* [**SPEAQeasy Bioconductor Workshop 2023**](http://research.libd.org/SPEAQeasyWorkshop2023/) to demonstrate how to utilize the outputs of the RNA-seq processing pipeline *SPEAQeasy* in downstream processing and differential gene expression analysis.  
+
+* [**CSHL Statistical Analysis of Genome Scale Data course 2023**](https://lcolladotor.github.io/cshl_rstats_genome_scale_2023/) to teach bulk RNA-seq data processing and exploratory analyses in the CSHL course of 2023.
+
+* [**CSHL Statistical Analysis of Genome Scale Data course 2024**](https://lcolladotor.github.io/cshl_rstats_genome_scale_2024/) to teach differential gene expression with *limma*-*voom* and the basics of spatial transcriptomics in the CSHL course of 2024.
+
+---
+
+
 ## <span style="color:  #030303;"> `r fontawesome::fa("screwdriver-wrench", fill = "#030303")` Skills </span>
 |  |  |
 |:------------------------------------------------|:--------------------|
@@ -105,6 +122,7 @@ output:
 * Quarto websites 🌐
 
 ---
+
 
 
 ## <span style="color:  #030303;"> `r fontawesome::fa("award", fill = "#030303")` Achievements </span>
@@ -118,9 +136,18 @@ output:
 |<br>|   |
 ---
 
+
+
+## <span style="color:  #030303;"> Interests and Hobbies </span>
+|  |  |
+|:------------------------------------------------|:--------------------|
+I love to paint <span style="font-size: 20px;"> 🎨 </span> practice yoga <span style="font-size: 20px;"> 🧘🏻‍♀ </span> cheese <span style="font-size: 20px;"> 🧀 </span> and dogs <span style="font-size: 20px;"> 🐩</span>.
+
+---
+
 Please refer to my CV for more details about my education, past research and teaching experience, presentations and courses, publications and ongoing projects. In case of questions or queries, feel free to contact me in any of my social media.
 
 <br>
 
-<span style="color: #7F7F7F; font-size: 14px"> Last Updated: 2024-08-27  </span>
+<span style="color: #7F7F7F; font-size: 14px"> Last Updated: 2024-11-07  </span>
 
