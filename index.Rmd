@@ -73,6 +73,8 @@ output:
 |**[Molecular impact of nicotine and smoking exposure on the developing and adult mouse brain.](https://doi.org/10.1101/2024.11.05.622149)** \| **Gonzalez-Padilla, D.**, Eagles, N. J., Cano, M., Pertea, G., Jaffe, A. E., ..., Martinowich, K., & Collado-Torres, L. (2024). ||
 |<br>|   |
 |**[Benchmark of cellular deconvolution methods using a multi-assay reference dataset from postmortem human prefrontal cortex.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10888823/)** \| Huuki-Myers, L. A., Montgomery, K. D., Kwon, S. H., Cinquemani, S., Eagles, N. J., **Gonzalez-Padilla, D.**, ..., Collado-Torres, L. (2024). 
+|<br>|   |
+|**[Bioinformatics perspectives on transcriptomics: A comprehensive review of bulk and single-cell RNA sequencing analyses.](https://onlinelibrary.wiley.com/doi/10.1002/qub2.78)** \| Tzec-Interian, J. A., **Gonzalez-Padilla, D.**, & Gongora-Castillo, E. B. (2025). 
 ---
 
 
